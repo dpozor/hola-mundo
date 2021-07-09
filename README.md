@@ -1,3 +1,1 @@
-# Hola mundo
-
-# Esta es mi edicion desde Geekshubs Academy
+# Daniel Pozo Román    Hello-world
